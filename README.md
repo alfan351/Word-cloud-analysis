@@ -8,7 +8,7 @@ Selamat datang di portofolio proyek Data Analyst & Business Intelligence (BI) sa
 - **Deskripsi:** Analisis distribusi complaint berdasarkan kategori dan prioritas untuk meningkatkan kepatuhan SLA.
 - **Tools:** SQL, Tableau, BigQuery
 - **Insight:** Identifikasi complaint dengan missed SLA tertinggi dan optimalisasi waktu resolusi.
-- **[Lihat Query SQL](./SQL/complaint_sla_analysis.sql)**  
+- **[Lihat Query SQL](https://github.com/alfan351/my_protofolio/blob/main/data_complaint.sql)**  
 - **Dashboard Tableau Screenshot:**  
   ![Dashboard Screenshot](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2014.08.28.png)
 
