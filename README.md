@@ -53,7 +53,7 @@ Meskipun proyek ini bertujuan untuk menganalisis faktor penyebab Missed SLA dala
 
 #### Data Understanding - Data Exploration 
 Tingginya volume complaint di setiap bulanya, complaint yg beragam dan complexity complaint yg tidak bisa diukur sehingga membebani Customer Excellence (CX). dengan terbatas nya manpowers yg hanya 6 orang dengan rata rata complaint di atas 1000 Hal ini mengurangi fokus mereka pada kasus yang kompleks atau mendesak, sehingga memperpanjang Resolution Time (waktu penyelesaian) untuk tiket complaint yang penting
-- !*[Total complaint](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.23.29.png)*
+- ![Total complaint](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.23.29.png)
 
 
 ### 3. Complaint Freetext analysis 
