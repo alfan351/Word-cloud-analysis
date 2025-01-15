@@ -9,7 +9,7 @@ Selamat datang di portofolio proyek Data Analyst & Business Intelligence (BI) sa
 - **Tools:** SQL, Tableau, BigQuery
 - **Insight:** Identifikasi complaint dengan missed SLA tertinggi dan optimalisasi waktu resolusi.
 - **[Lihat Query SQL](https://github.com/alfan351/my_protofolio/blob/main/data_complaint.sql)**  
-- **[Database]()**
+- **[Database](https://github.com/alfan351/my_protofolio/blob/main/database.csv)**
 - **Dashboard Tableau Screenshot:**  
   ![Dashboard Screenshot](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2014.08.28.png)
 
