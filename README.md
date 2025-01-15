@@ -52,8 +52,29 @@ Meskipun proyek ini bertujuan untuk menganalisis faktor penyebab Missed SLA dala
 - Kualitas data yg kurang baik Bisa menyebabkan kurang akurat pada hasil analisa
 
 #### Data Understanding - Data Exploration 
-Tingginya volume complaint di setiap bulanya, complaint yg beragam dan complexity complaint yg tidak bisa diukur sehingga membebani Customer Excellence (CX). dengan terbatas nya manpowers yg hanya 6 orang dengan rata rata complaint di atas 1000 Hal ini mengurangi fokus mereka pada kasus yang kompleks atau mendesak, sehingga memperpanjang Resolution Time (waktu penyelesaian) untuk tiket complaint yang penting
-- ![Total complaint](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.23.29.png)
+A. Tingginya volume complaint di setiap bulanya, complaint yg beragam dan complexity complaint yg tidak bisa diukur sehingga membebani Customer Excellence (CX). dengan terbatas nya manpowers yg hanya 6 orang dengan rata rata complaint di atas 1000 Hal ini mengurangi fokus mereka pada kasus yang kompleks atau mendesak, sehingga memperpanjang Resolution Time (waktu penyelesaian) untuk tiket complaint yang penting
+
+![Monthly Total complaint](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.23.29.png) 
+![Total Complaint](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.24.04.png)
+
+B. seiring meningkatnya volume complaint, kemampuan CX untuk tepat waktu menyelesaikan complaint kompleks semakin berkurang, kemungkinan karena terbatasnya man power untuk menangani complaint. Hal ini menunjukkan bahwa tanpa strategi untuk mengelola atau mengurangi pertanyaan berulang, fokus CX pada complaint kritis akan terus terganggu, yang pada akhirnya dapat mempengaruhi customer satisfaction dan kualitas layanan pelanggan secara keseluruhan
+- Target resolution time untuk complaint lv 1 adalah < 1 jam
+- Target resolution time untuk complaint lv 2 adalah < 2 hari
+
+![on time rate](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.35.40.png)
+
+C. Tingkat penyelesaian FCR yang rendah menunjukkan bahwa mayoritas keluhan pelanggan tidak dapat diselesaikan pada level 1 . Hal ini mengindikasikan adanya tantangan signifikan dalam proses penyelesaian masalah, yang berpotensi mempengaruhi efisiensi operasional dan kepuasan pelanggan.
+
+![FCR rate](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.35.57.png)
+
+D .quartile 3 (75%) saat ini belum mencapai target yang telah ditetapkan, memberikan kita gambaran yang jelas bahwa ada gap besar untuk perbaikan. Walau hasil ini menunjukkan bahwa sebagian besar tim telah bekerja keras, masih ada ruang untuk mengoptimalkan potensi agar mencapai standar yang lebih tinggi.
+- Level 1 <300 menit or 5 jam
+- Level 2 <8000 menit or 5 hari
+
+![Resolution Rate](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2016.36.14.png)
+
+
+
 
 
 ### 3. Complaint Freetext analysis 
