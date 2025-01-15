@@ -4,13 +4,13 @@ Selamat datang di portofolio proyek Data Analyst & Business Intelligence (BI) sa
 
 ## 📊 Proyek Utama
 
-### 1. Complaint Analysis and SLA Monitoring
+### 1. Dashboard Complaint Analysis and Monitoring
 - **Deskripsi:** Analisis distribusi complaint berdasarkan kategori dan prioritas untuk meningkatkan kepatuhan SLA.
 - **Tools:** SQL, Tableau, BigQuery
 - **Insight:** Identifikasi complaint dengan missed SLA tertinggi dan optimalisasi waktu resolusi.
 - **[Lihat Query SQL](./SQL/complaint_sla_analysis.sql)**  
 - **Dashboard Tableau Screenshot:**  
-  ![Dashboard Screenshot](./Dashboards/Tableau-Dashboard-Screenshots/complaint-dashboard.png)
+  ![Dashboard Screenshot](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2014.08.28.png)
 
 ### 2. Customer Churn Prediction
 - **Deskripsi:** Prediksi churn pelanggan berdasarkan riwayat transaksi dan perilaku pelanggan.
