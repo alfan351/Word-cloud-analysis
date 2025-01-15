@@ -13,11 +13,11 @@ Selamat datang di portofolio proyek Data Analyst & Business Intelligence (BI) sa
 - **Dashboard Tableau Screenshot:**  
   ![Dashboard Screenshot](https://github.com/alfan351/my_protofolio/blob/main/Screenshot%202025-01-15%20at%2014.08.28.png)
 
-### 2. Customer Churn Prediction
+### 2. Complaint Freetext analysis 
 - **Deskripsi:** Prediksi churn pelanggan berdasarkan riwayat transaksi dan perilaku pelanggan.
 - **Tools:** Python, Jupyter Notebook, Scikit-Learn
 - **Insight:** Identifikasi pelanggan dengan risiko churn tinggi untuk tindakan pencegahan.
-- **[Lihat Notebook](./Notebooks/customer_churn_analysis.ipynb)**
+- **[Lihat Notebook](https://github.com/alfan351/my_protofolio/blob/main/Freetext%20analsyt%20complaint.ipynb)**
 
 ---
 
