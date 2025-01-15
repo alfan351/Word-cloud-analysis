@@ -33,8 +33,8 @@ Dengan mengetahui faktor-faktor penyebab Missed SLA, perusahaan dapat secara pro
 Dengan analisis Missed SLA tidak hanya berperan dalam peningkatan layanan tetapi juga dalam mendukung pertumbuhan bisnis jangka panjang.
 
 #### Business Understanding - Business Question
-1.data-data apa saja yang harus dimonitor untuk bisa melihat faktor utama penyebab missed sla?
-2.Bagaimana memprioritaskan faktor yang mempengaruhi Missed SLA agar bisa langsung ditindaklanjuti?
+- data-data apa saja yang harus dimonitor untuk bisa melihat faktor utama penyebab missed sla?
+- Bagaimana memprioritaskan faktor yang mempengaruhi Missed SLA agar bisa langsung ditindaklanjuti?
 
 #### Business Understanding - Project Objectives
 - Mengidentifikasi Data yang Harus Dimonitor: Menyusun metrik dan variabel kunci yang perlu dipantau secara rutin untuk mengidentifikasi faktor-faktor penyebab Missed SLA.
@@ -50,6 +50,9 @@ Meskipun proyek ini bertujuan untuk menganalisis faktor penyebab Missed SLA dala
 - Tidak realtime nya pengisian complaint karna 2 tools yg berbeda
 - Waktu Respons dan Eskalasi yang Tidak capture dengan baik Seperti berapa lama waktu meng eskalasikan dari level 1 ke level 2
 - Kualitas data yg kurang baik Bisa menyebabkan kurang akurat pada hasil analisa
+
+#### Data Understanding - Data Exploration 
+Tingginya volume complaint di setiap bulanya, complaint yg beragam dan complexity complaint yg tidak bisa diukur sehingga membebani Customer Excellence (CX). dengan terbatas nya manpowers yg hanya 6 orang dengan rata rata complaint di atas 1000 Hal ini mengurangi fokus mereka pada kasus yang kompleks atau mendesak, sehingga memperpanjang Resolution Time (waktu penyelesaian) untuk tiket complaint yang penting
 
 
 ### 3. Complaint Freetext analysis 
