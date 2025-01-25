@@ -12,7 +12,7 @@ Proyek ini menghasilkan **WordCloud** yang digunakan untuk visualisasi distribus
 
 ## Prasyarat
 
-Proyek ini membutuhkan **Python 3.x** dan beberapa pustaka berikut:
+Proyek ini megunakan pyton dan beberapa pustaka berikut:
 
 - **pandas**: Untuk manipulasi data.
 - **wordcloud**: Untuk menghasilkan WordCloud.
