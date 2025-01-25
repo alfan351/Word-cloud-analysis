@@ -1,0 +1,30 @@
+function sendRekapEmail() {
+  // Ambil sheet yang sesuai
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("DATA SKU"); // Ganti dengan nama sheet Anda
+  var data = sheet.getDataRange().getValues(); // Ambil semua data dari sheet
+
+  // Loop melalui data, mulai dari baris kedua (indeks 1) untuk melewatkan header
+  for (var i = 1; i < data.length; i++) {
+    var Gudang = data[i][1]; // Kolom kedua (Gudang)
+    var SKU = data[i][2];    // Kolom ketiga (SKU)
+    var Qty = data[i][3];    // Kolom keempat (Qty)
+    var Lead_Email = data[i][4]; // Kolom kelima (Lead Email)
+
+    // Validasi data - hanya jika Qty > 0 dan semua kolom lainnya tersedia
+    if (Gudang && SKU && Qty > 0 && Lead_Email) {
+      // Format pesan
+      var message = `Halo,\n\nBerikut adalah rekap SKU yang telah disiapkan:\n\n` +
+                    `SKU: ${SKU}\nQty: ${Qty}\nGudang: ${Gudang}\n\n` +
+                    `Mohon ditindaklanjuti sesuai kebutuhan.\n\nTerima kasih.`;
+
+      // Kirim email
+      MailApp.sendEmail(Lead_Email, "Rekap SKU untuk Tindakan Lanjutan", message);
+
+      // Log pengiriman untuk debugging
+      Logger.log(`Email terkirim ke: ${Lead_Email} | SKU: ${SKU} | Qty: ${Qty} | Gudang: ${Gudang}`);
+    } else {
+      // Log jika data tidak valid atau Qty <= 0
+      Logger.log(`Data tidak valid di baris ${i + 1}: ${data[i]}`);
+    }
+  }
+}
