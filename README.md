@@ -23,3 +23,5 @@ Proyek ini megunakan pyton dan beberapa pustaka berikut:
 ## proses wordcloud analysis 
 
 [https://github.com/alfan351/Word-cloud-analysis/blob/main/Wordcount.ipynb]
+
+## hasil proses analysis 
